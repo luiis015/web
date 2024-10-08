@@ -1,0 +1,107 @@
+<!DOCTYPE html> 
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORQUE SOY EL AMOR DE TU VIDA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            text-align: center;
+            color: #333;
+        }
+
+        header {
+            background-color: #062907;
+            color: rgb(230, 55, 55); /* Cambié el color del texto del título a blanco */
+            padding: 20px 0;
+        }
+
+        section {
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1,
+        h2 {
+            color: #4caf50;
+        }
+
+        img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            margin-top: 20px;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        video {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+
+        a {
+            color: #4caf50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>¡Hola! Soy Luis, el amor de tu vida 😘</h1>
+    </header>
+
+    <section>
+        <h2>¿Quién soy?</h2>
+        <p>Me llamo Luis, y soy amigo de Parra, que es el novio de tu súper amiga, esa que te está enseñando esta obra de arte. Tengo
+            18 años y un futuro brillante, no solo a tu lado, sino también en el ámbito de la informática. Estoy
+            estudiando en DAM y DAW, por ahora está fácil por eso estoy socializando mucho y de ahí que conociera al gran novio de tu amiga y me dijo que compartir es vivir, y por eso hacemos esta web para que Lucia te enseñe esto y te enamores/te rías. La base de datos es un coñazo y ya hemos jugado a casi todos los juegos que hay.</p>
+
+        <img src="C:/Users/Usuario DAM1/Desktop/rl/ra.png" alt="Una foto de Luis">
+
+        <h2>Un poquito sobre mí:</h2>
+        <ul>
+            <li>Soy gracioso y siempre dispuesto a sacarte una sonrisa 😂</li>
+            <li>Soy bastante optimista e intento ver el lado bueno de todo</li>
+            <li>Soy un romántico y detallista creo yo</li>
+            <li>Hago rica a la gente con apuestas del bet365 💸</li>
+            <li>Moreno, porque alguien tiene que darle ese toque exótico 😉</li>
+            <li>Hago informática💻</li>
+            <li>No sé qué más poner</li>
+        </ul>
+
+        <h2>¿Por qué soy el amor de tu vida?</h2>
+        <p>Porque siempre estaré para apoyarte, hacerte reír y ser el compañero que necesitas. Además, soy una mezcla
+            perfecta, soy polifacético (aunque no sé qué coño significa, pero quedaba bien), vamos, en pocas palabras, un partidazo.</p>
+        <p>Y, claro, siempre estoy buscando formas creativas de sorprenderte... como esta maravillosa página web que
+            demuestra que tengo tanto habilidades técnicas como amorosas.</p>
+
+        <p>Sígueme en <a href="https://www.instagram.com/luiis__015" target="_blank">Instagram</a></p>
+
+        <video controls>
+            <source src="file:///C:/Users/Usuario%20DAM1/Desktop/rl/video.mp4.mp4" type="video/mp4">
+        </video>
+    </section>
+
+    <footer>
+        <p>Con cariño, Luis. Siempre buscando maneras de hacerte feliz.</p>
+    </footer>
+</body>
+
+</html>
